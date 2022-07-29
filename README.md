@@ -1,7 +1,5 @@
 # Sorting-Visualizer
 
-## About
-
 This tool visualizes the bubble, insertion, selection, and quick sort algorithms. I developed it using Java Swing.
 
 ## Build Steps
